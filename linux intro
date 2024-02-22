@@ -1,0 +1,20 @@
+22/2/2024
+linux will consider everything as file if not a file, than it is process
+
+SOS - system on chip (A5D27)-phycore A4D2X
+SOM - system on module
+SBC - rugged board A5D2X(single board computer)
+
+we can boot in
+-SD card
+-network
+-flash memory
+
+boot ROM code is in SOC
+ Zimage is cornel image
+
+dts-device tree source
+.dtsi-device tree source include
+.dtb-device tree binary
+
+cornel mount the root file system
